@@ -195,4 +195,4 @@ This repository serves as the official landing page for Hoedown. The software is
 **Get the most recent version of Hoedown today!**
 
 ---
-**Last updated:** 2026-11-12 03:29:47 UTC
+**Last updated:** 2026-11-12 11:58:14 UTC
